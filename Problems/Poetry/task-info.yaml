@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: print(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6881#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 26 Feb 2021 20:30:02 UTC
+record: -1

@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# define a new variable here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5864#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 27 Feb 2021 14:06:33 UTC
+record: -1

@@ -1,0 +1,12 @@
+type: code
+custom_name: Half-life
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6543#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 28 Feb 2021 12:35:54 UTC
+record: -1
